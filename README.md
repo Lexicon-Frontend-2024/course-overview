@@ -9,6 +9,12 @@ Kursens innehåll är omfattande. En rad olika kompetenser och tekniker kommer a
 ## HTML & CSS _( 5 veckor )_
 
 Under de första fem veckorna behandlar kursen grundläggande HTML och CSS. Ni utvecklar fördigheter för att strukturera webbsidor med semantisk HTML, vilket förbättrar webbtillgänglighet och SEO. Segmentet täcker även CSS för att skapa attraktiva och responsiva designlösningar.
+Veckoscheman:
+* [Vecka 21](https://github.com/Lexicon-Frontend-2024/schedule-week-21)
+* [Vecka 22]()
+* [Vecka 23]()
+* [Vecka 24]()
+* [Vecka 25]()
 
 ## Agila projektmetoder _( 1 veckor )_
 
