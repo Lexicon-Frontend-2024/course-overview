@@ -12,7 +12,7 @@ Under de första fem veckorna behandlar kursen grundläggande HTML och CSS. Ni u
 
 Veckoscheman:
 * [Vecka 21](https://github.com/Lexicon-Frontend-2024/schedule-week-21)
-* [Vecka 22]
+* [Vecka 22](https://github.com/Lexicon-Frontend-2024/schedule-week-22)
 * [Vecka 23]
 * [Vecka 24]
 * [Vecka 25]
