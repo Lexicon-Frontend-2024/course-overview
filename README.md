@@ -32,25 +32,25 @@ Veckoscheman:
 * [Vecka 27](https://github.com/Lexicon-Frontend-2024/schedule-week-27)
 * [Vecka 28](https://github.com/Lexicon-Frontend-2024/schedule-week-28)
 * [Vecka 29](https://github.com/Lexicon-Frontend-2024/schedule-week-29)
+* [Vecka 31]
 * [Vecka 32]
-* [Vecka 33]
   
 ## React _( 6 veckor )_
 
 Under dessa sex veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
 
 Veckoscheman:
+* [Vecka 33]
 * [Vecka 34]
 * [Vecka 35]
 * [Vecka 36]
 * [Vecka 37]
 * [Vecka 38]
-* [Vecka 39]
   
 ## Slutprojekt _( 2 veckor )_
 
 Slutprojektet sträcker sig över två veckor där ni applicerar allt ni har lärt er under kursern gång i ett så kallat **Passion Project**. Syftet med detta projekt är att skapa något som ni kan använda er utav i era framtida praktik- och jobbansökningar för att öka er anställningsbarhet. Projektet fokuserar på React givitvis men det finns även utrymme för att använda andra tekniker om sådant behov finns. 
 
 Veckoscheman:
+* [Vecka 39]
 * [Vecka 40]
-* [Vecka 41]
