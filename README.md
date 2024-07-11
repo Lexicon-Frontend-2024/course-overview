@@ -31,7 +31,7 @@ Kursen ägnar sex veckor åt JavaScript, från grundläggande syntax och datatyp
 Veckoscheman:
 * [Vecka 27](https://github.com/Lexicon-Frontend-2024/schedule-week-27)
 * [Vecka 28](https://github.com/Lexicon-Frontend-2024/schedule-week-28)
-* [Vecka 29](https://github.com/Lexicon-Frontend-2024/schedule-week-29)
+* [Vecka 29-30](https://github.com/Lexicon-Frontend-2024/schedule-week-29)
 * [Vecka 31]
 * [Vecka 32]
   
