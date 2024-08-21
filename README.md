@@ -40,7 +40,7 @@ Veckoscheman:
 Under dessa sex veckor fokuserar kusern på React för att utveckla användargränssnitt. Ni skapar och hanterar komponenter, använder props för dataflöden samt implementerar hooks för utnyttja Reacts fulla potential. Kursen inkluderar även routing och global data-hantering i form av React Router och Context/Redux. För att utveckla er frontend-kompetens kommer även SASS, CSS-Ramverk och TypeScript introduceras.
 
 Veckoscheman:
-* [Vecka 33](https://github.com/Lexicon-Frontend-2024/schedule-week-33)
+* Projektvecka
 * [Vecka 34](https://github.com/Lexicon-Frontend-2024/schedule-week-34)
 * [Vecka 35](https://github.com/Lexicon-Frontend-2024/schedule-week-35)
 * [Vecka 36](https://github.com/Lexicon-Frontend-2024/schedule-week-36)
