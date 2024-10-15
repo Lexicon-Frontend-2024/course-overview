@@ -55,4 +55,4 @@ Slutprojektet sträcker sig över tre veckor där ni applicerar allt ni har lär
 Veckoscheman:
 * [Vecka 40](https://github.com/Lexicon-Frontend-2024/schedule-week-40)
 * [Vecka 41](https://github.com/Lexicon-Frontend-2024/schedule-week-41)
-* [Vecka 41](https://github.com/Lexicon-Frontend-2024/schedule-week-42)
+* [Vecka 42](https://github.com/Lexicon-Frontend-2024/schedule-week-42)
