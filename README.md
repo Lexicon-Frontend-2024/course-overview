@@ -48,10 +48,11 @@ Veckoscheman:
 * [Vecka 38](https://github.com/Lexicon-Frontend-2024/schedule-week-38)
 * [Vecka 39](https://github.com/Lexicon-Frontend-2024/schedule-week-39)
   
-## Slutprojekt _( 2 veckor )_
+## Slutprojekt _( 3 veckor )_
 
-Slutprojektet sträcker sig över två veckor där ni applicerar allt ni har lärt er under kursern gång i ett så kallat **Passion Project**. Syftet med detta projekt är att skapa något som ni kan använda er utav i era framtida praktik- och jobbansökningar för att öka er anställningsbarhet. Projektet fokuserar på React givitvis men det finns även utrymme för att använda andra tekniker om sådant behov finns. 
+Slutprojektet sträcker sig över tre veckor där ni applicerar allt ni har lärt er under kursens gång i ett så kallat **Passion Project**. Syftet med detta projekt är att skapa något som ni kan använda er utav i era framtida praktik- och jobbansökningar för att öka er anställningsbarhet. Projektet fokuserar på React givitvis men det finns även utrymme för att använda andra tekniker om sådant behov finns. 
 
 Veckoscheman:
-* [Vecka 39]
-* [Vecka 40]
+* [Vecka 40](https://github.com/Lexicon-Frontend-2024/schedule-week-40)
+* [Vecka 41](https://github.com/Lexicon-Frontend-2024/schedule-week-41)
+* [Vecka 41](https://github.com/Lexicon-Frontend-2024/schedule-week-42)
